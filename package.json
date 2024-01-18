@@ -1,0 +1,12 @@
+{
+  "name": "retos-programacion-mouredev-2024",
+  "version": "1.0.0",
+  "description": "Esta es mi solución de los retos de programación semanales propuestos por el YouTuber MoureDev durante los años 2022/2023/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
